@@ -1,0 +1,6 @@
+gspread==6.2.1
+google-auth==2.62.2
+playwright==1.65.1
+playwright-stealth==2.0.3
+beautifulsoup4==4.15.0
+python-dotenv==1.2.4
